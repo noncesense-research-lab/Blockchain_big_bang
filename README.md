@@ -37,3 +37,5 @@ This notebook contains the first iteration of two crude mitigation approaches:
 -  **Span (multi-timescale) memory**: Generalization of the two-point memory.
 
 **The mitigation strategies prototyped here are certainly NOT perfect!! The parameters have not been tuned, the edge cases have not been explored, and computational/memory resources have not been taken into account. Please iterate and improve on these rough draft notions, or replace them with better ones. :- )**
+
+# Please see Jupyter notebook for results and FAQ
