@@ -31,11 +31,6 @@ Monero's dynamic blocksize includes a coinbase penalty function to incentivize m
 
 **Result: The *block size* doubles every 3 hours, indefinitely. The *blockchain size* doubles within 8 hours and grows catastrophically large.**
 
-## Mitigation strategies:
-This notebook contains the first iteration of two crude mitigation approaches:
--  **Two-point short/long-term memory**: Same as the current method, but adds a 1-week memory to our current 3-hour memory
--  **Span (multi-timescale) memory**: Generalization of the two-point memory.
-
-**The mitigation strategies prototyped here are certainly NOT perfect!! The parameters have not been tuned, the edge cases have not been explored, and computational/memory resources have not been taken into account. Please iterate and improve on these rough draft notions, or replace them with better ones. :- )**
-
 # Please see Jupyter notebook for results and FAQ
+
+# See issues for conversation/brainstorming around scenarios and algorithms to test
