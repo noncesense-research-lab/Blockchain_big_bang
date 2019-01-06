@@ -33,7 +33,7 @@ Under the current system, the *block size* doubles every 51 blocks (i.e. doublin
 
 ```
 *************************
-At the end of the 6:
+At the end of the 6th hour:
 -
 # Current algorithm
 Blocksize = 4800.0 kB
@@ -57,7 +57,7 @@ Net fees ~ 29700.0 EUR
 stake ~ 0.004%
 
 *************************
-At the end of the 12:
+At the end of the 12th hour:
 -
 # Current algorithm
 Blocksize = 76800.0 kB
@@ -81,7 +81,7 @@ Net fees ~ 59400.0 EUR
 stake ~ 0.006999999999999999%
 
 *************************
-At the end of the 18:
+At the end of the 18th hour:
 -
 # Current algorithm
 Blocksize = 614400.0 kB
@@ -105,7 +105,7 @@ Net fees ~ 89100.0 EUR
 stake ~ 0.011000000000000001%
 
 *************************
-At the end of the 24:
+At the end of the 24th hour:
 -
 # Current algorithm
 Blocksize = 9830400.0 kB
@@ -129,7 +129,7 @@ Net fees ~ 118800.0 EUR
 stake ~ 0.013999999999999999%
 
 *************************
-At the end of the 36:
+At the end of the 36th hour:
 -
 # Current algorithm
 Blocksize = 1258291200.0 kBhttps://github.com/noncesense-research-lab/Blockchain_big_bang/edit/master/README.md
