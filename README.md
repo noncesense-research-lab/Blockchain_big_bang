@@ -1,7 +1,6 @@
 # Please see the [Big Bang Notebook](https://github.com/noncesense-research-lab/Blockchain_big_bang/blob/master/models/Isthmus_Bx_big_bang_model.ipynb) for the full story with code & plots.
 
 --- 
---- 
 
 ### Some information (without plots) is provided below for readers that cannot view the notebook.
 
